@@ -4,11 +4,7 @@ A small Manifest V3 extension for Chrome / Edge / Brave that keeps YouTube from
 resetting your video quality to **Auto** and keeps your caption (subtitle)
 settings the way you set them.
 
-## Screenshots
 
-![Popup preview](ray.png)
-
-![Popup preview](ray2.png)
 
 ## What it does
 
@@ -81,3 +77,10 @@ nothing breaks. The **Read this video** button re-runs the probe on demand
 | `popup.html/.css/.js` | Settings UI with live caption preview + live pickers |
 | `icons/` | Toolbar icons |
 | `tools/gen-icons.js` | Regenerates the PNG icons (`node tools/gen-icons.js`) |
+
+
+## Screenshots
+
+![Popup preview](ray.png)
+
+![Popup preview](ray2.png)
