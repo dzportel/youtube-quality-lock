@@ -4,6 +4,12 @@ A small Manifest V3 extension for Chrome / Edge / Brave that keeps YouTube from
 resetting your video quality to **Auto** and keeps your caption (subtitle)
 settings the way you set them.
 
+## Screenshots
+
+![Popup preview](ray.png)
+
+![Popup preview](ray2.png)
+
 ## What it does
 
 - **Locks video quality** to the level you pick. If a video doesn't offer that
